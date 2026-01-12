@@ -1,0 +1,24 @@
+Starting Nmap 7.98 ( https://nmap.org ) at 2026-01-12 12:50 +0530
+NSE: Loaded 158 scripts for scanning.
+NSE: Script Pre-scanning.
+Initiating NSE at 12:50
+Completed NSE at 12:50, 0.00s elapsed
+Initiating NSE at 12:50
+Completed NSE at 12:50, 0.00s elapsed
+Initiating NSE at 12:50
+Completed NSE at 12:50, 0.00s elapsed
+Initiating Ping Scan at 12:50
+Scanning 192.168.29.207 [4 ports]
+Completed Ping Scan at 12:50, 2.04s elapsed (1 total hosts)
+Nmap scan report for 192.168.29.207 [host down]
+NSE: Script Post-scanning.
+Initiating NSE at 12:50
+Completed NSE at 12:50, 0.00s elapsed
+Initiating NSE at 12:50
+Completed NSE at 12:50, 0.00s elapsed
+Initiating NSE at 12:50
+Completed NSE at 12:50, 0.00s elapsed
+Read data files from: C:\Program Files (x86)\Nmap
+Note: Host seems down. If it is really up, but blocking our ping probes, try -Pn
+Nmap done: 1 IP address (0 hosts up) scanned in 3.18 seconds
+           Raw packets sent: 8 (304B) | Rcvd: 0 (0B)
