@@ -1,9 +1,9 @@
 Network Security Threats Research Report
 
 Internship Task 4 – Research Report on Common Network Security Threats
-Prepared by: [Your Name]
+Prepared by: Jayesh Tayade
 Role: Cyber Security Intern
-Organisation: [Company Name]
+Organisation: OIBSIP
 Location: India
 
 1. Introduction
@@ -316,5 +316,6 @@ RBI Cyber Security Framework
 OWASP Documentation
 
 NIST Cybersecurity Framework
+
 
 Various cyber security case studies and news reports
